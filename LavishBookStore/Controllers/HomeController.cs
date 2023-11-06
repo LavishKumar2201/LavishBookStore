@@ -1,4 +1,5 @@
 ﻿using LavishBookStore.Models;
+using LavishBookStore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
