@@ -9,3 +9,6 @@ At 2:25
 I reviewed all my files provided in the ppt and then made changes in my bootstrap 
 I downloaded bootstarp file from bootswatch.com and then replacemy bootstrap code and thne made some changes into my layout.cs file
 and then i ran my project and It worked my welcome page depicts the theme I choosed.
+At 3:00
+I made changes in my lauout.cshtml file I added Css and js link provided in files and added a dropdown table 
+I ran my project and It wokes everythng is working properly my dropdown tabvle and the welcome page.
