@@ -12,3 +12,12 @@ and then i ran my project and It worked my welcome page depicts the theme I choo
 At 3:00
 I made changes in my lauout.cshtml file I added Css and js link provided in files and added a dropdown table 
 I ran my project and It wokes everythng is working properly my dropdown tabvle and the welcome page.
+
+Part 2
+At 3:00 On Nov 11,2023
+I cloned my project and then updated my appsetting.json file 
+After that under package manager console I added a new migration
+It showed error but after changing lavishbookstore to LavishBookStroe.DataAccess
+and then I added the same migration and it was successfull.
+At 3:30
+I added a new file named Category.cs under the models and modified it.
