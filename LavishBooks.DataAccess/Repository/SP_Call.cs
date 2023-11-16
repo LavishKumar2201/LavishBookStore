@@ -8,7 +8,7 @@ using System.Text;
 using Microsoft.Data.SqlClient;
 using System.Linq;
 
-namespace NamanBooks.DataAccess.Repository
+namespace LavishBooks.DataAccess.Repository
 {
     public class SP_Call : ISP_Call
     {
