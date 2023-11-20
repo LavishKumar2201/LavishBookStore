@@ -21,3 +21,16 @@ It showed error but after changing lavishbookstore to LavishBookStroe.DataAccess
 and then I added the same migration and it was successfull.
 At 3:30
 I added a new file named Category.cs under the models and modified it.
+
+After that I Started part 2 RePository Of part 2 of this assignment In that first of all 
+I Created a folder named repository under LavishBooks.DataAccsess and under that forder I added two files one is interface and one is class the interface is defined by I
+like first i created a class named Repository.cs and a interface named IReposotory.cs and then I modified both as per demannd.
+I also implemented some interface to my code.
+Then I created Category class and interface to link both ICategoryReposotory.cs as interface and CategoryReposotory as a class.
+IFirst modified the CategoryReposotory.cs file  and then modified the ICategoryReposotory.cs file Implemented some interface and I was Commiting them after doing some steps.
+After that I added a new interface under my IReposotry folder named ISP_Call.cs modified it and intall NuGet Package for Dapper
+Then I added a new class NAmed SP_call.cs inder my reposotory folder then I modified both ISP_Call and SP_Call.
+After that I added a new interface under my IReposotory Folder Name of that interface is IUnitOfWork. then I updated that code and also added a new class named UnitOfWork inder Reposotory.
+Modified both the files and then I Tried added 1 Like under my startup.cs file that is service.AddScopped<IUnitOfWork, UnitOfWork>(); and added the using statement according to the need
+but I Got errors.
+
